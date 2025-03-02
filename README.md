@@ -1,7 +1,6 @@
-
 # IFS-VAD
 
-This is the official Pytorch implementation of our paper: "Inter-clip Feature Similarity based Weakly Supervised Video Anomaly Detection via Multi-scale Temporal MLP".
+This is the official Pytorch implementation of our paper: "[**Inter-clip Feature Similarity based Weakly Supervised Video Anomaly Detection via Multi-scale Temporal MLP**](https://ieeexplore.ieee.org/document/10720820) " in TCSVT 2025.
 
 
 
@@ -35,3 +34,18 @@ After the setup, simply run the following commands:
 
 
 
+
+## Citations
+
+If you find this repo helpful for your research, please consider citing our paper:
+
+    @ARTICLE{Zhu2025IFS,
+        author={Zhong, Yuanhong and Zhu, Ruyue and Yan, Ge and Gan, Ping and Shen, Xuerui and Zhu, Dong},
+        journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+        title={Inter-Clip Feature Similarity Based Weakly Supervised Video Anomaly Detection via Multi-Scale Temporal MLP}, 
+        year={2025},
+        volume={35},
+        number={2},
+        pages={1961-1970},
+        keywords={Feature extraction;Training;Anomaly detection;Annotations;Circuits and systems;Multilayer perceptrons;Surveillance;Germanium;Explosions;Transformers;Video anomaly detection;weakly supervised learning;multiple instance learning;multilayer perceptron},
+        doi={10.1109/TCSVT.2024.3482414}}
