@@ -35,7 +35,7 @@ After the setup, simply run the following commands:
 
 
 
-## Citations
+## Citation
 
 If you find this repo helpful for your research, please consider citing our paper:
 
